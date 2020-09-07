@@ -3,5 +3,5 @@
 A collection of Shell Script Utilities for Linux
 
 ## Ubuntu
-`./upgrade.sh`
+- To a full update and upgrade `./upgrade.sh`
 
